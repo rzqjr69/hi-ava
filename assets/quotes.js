@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
-    { author: "avrill.v", quotes: "Whatever happens, keep breathing" },
-    { author: "antjedtta_", quotes: "Pam pam pararam ceklek jedar\nPararam ram parararam ram" },
-    { author: "standinshd", quotes: "Hey! I wuv chuuuu! UwU" },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I'm sorry for loving you." },
+    { author: "Rzq_JR", quotes: "Whatever happens, keep breathing" },
+    { author: "Rzq_JR", quotes: "Duaaarr I Love You\nTararararaara" },
+    { author: "Copyright 2020", quotes: "Hey! I Love You! UwU" },
+    { author: "Copyright 2020", quotes: "I love you." },
+    { author: "Copyright 2020", quotes: "I may not with you everyday, but I love you everyday." },
+    { author: "Copyright 2020", quotes: "I love you." },
+    { author: "Copyright 2020", quotes: "I'm sorry for loving you." },
 ];
