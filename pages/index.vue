@@ -25,7 +25,7 @@
     />
 
     <!-- Audio file -->
-    <audio src="~/assets/music.ogg" autoplay controls loop />
+    <audio src="~/assets/music30.ogg" autoplay controls loop />
 
     <!-- Main -->
     <div class="main">
@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'Nevermind! >///<']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always love you... ^2500', 'Nevermind! >///<']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
